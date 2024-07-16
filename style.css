@@ -19,7 +19,7 @@ body {
     background-color: #F0E8C2;
 
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
 
 }
 
@@ -52,10 +52,20 @@ h2 {
 h1, h2 {
     color: #291B1A;
     margin-botton: 4px;
-    line-height: 1550%;
+    line-height: 150%;
 
 }
 
 ul {
     padding-left: 24px;
+}
+
+footer {
+  color: #F0E8C2;
+  text-aline: center;
+  padding-botton: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
